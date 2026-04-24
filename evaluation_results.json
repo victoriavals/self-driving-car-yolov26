@@ -1,0 +1,31 @@
+{
+  "detection": {
+    "mAP50": 0.6248,
+    "mAP50_95": 0.449,
+    "precision": 0.7454,
+    "recall": 0.6573
+  },
+  "segmentation": {
+    "mAP50": 0.6183,
+    "mAP50_95": 0.4265,
+    "precision": 0.771,
+    "recall": 0.6335,
+    "mean_dice": 0.7417,
+    "dice_loss": 0.2583,
+    "per_class_dice": {
+      "class_1": 0.9009,
+      "class_2": 0.166,
+      "class_3": 0.9152,
+      "class_4": 0.9373,
+      "class_5": 0.9474,
+      "class_6": 0.7694,
+      "class_7": 0.7434,
+      "class_8": 0.8507,
+      "class_9": 0.6451,
+      "class_10": 0.9222,
+      "class_11": 0.3615
+    }
+  },
+  "model": "runs\\runs\\segment\\yolo26s_run1\\weights\\best.pt",
+  "test_images": 101
+}
