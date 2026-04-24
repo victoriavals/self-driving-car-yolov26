@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/NaufalFirdaus/CODES/MyGithub/**)",
+      "Bash(git config *)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:github.com)",
+      "WebSearch",
+      "WebFetch(domain:docs.ultralytics.com)",
+      "WebFetch(domain:www.ultralytics.com)"
+    ]
+  }
+}
