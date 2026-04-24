@@ -16,3 +16,7 @@ runs/
 dataset/
 images_prepped_*/
 annotations_prepped_*/
+
+# Claude
+.claude/
+CLAUDE.md
