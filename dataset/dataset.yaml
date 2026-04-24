@@ -1,0 +1,17 @@
+names:
+- class_1
+- class_2
+- class_3
+- class_4
+- class_5
+- class_6
+- class_7
+- class_8
+- class_9
+- class_10
+- class_11
+nc: 11
+path: C:\NaufalFirdaus\CODES\MyGithub\self-driving-car-yolov26\dataset
+test: images/test
+train: images/train
+val: images/val
